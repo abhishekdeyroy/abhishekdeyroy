@@ -39,9 +39,5 @@ I like building useful websites, tools, and automation workflows. Most of my pro
 
 ## Connect With Me
 
-- Instagram: https://instagram.com/nextleveladviser  
+- Instagram: https://instagram.com/abhishekdeyroy  
 - Website: https://abhishekdeyroy.com  
-
-## GitHub Stats
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekdeyroy&show_icons=true)
