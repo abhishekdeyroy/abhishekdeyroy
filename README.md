@@ -13,12 +13,12 @@ I like building useful websites, tools, and automation workflows. Most of my pro
 
 ## What I'm Working On
 
-- Coin Master spins and rewards website  
-- vanlife blog at thevanlifeway.com  
-- IPO Live India (ipolive.in)  
-- WordPress tools for Telegram links and gadget listings  
+- Game website  
+- Vanlife blog
+- IPO Live India
+- WordPress tools
 - A multi-language image converter  
-- API delivery system at api.abhishekdeyroy.com  
+- API delivery system  
 
 ## Skills
 
@@ -31,11 +31,11 @@ I like building useful websites, tools, and automation workflows. Most of my pro
 
 ## Featured Projects
 
-- Coin Master rewards engine (PHP + JSON)  
-- Telegram group links listing platform  
+- Rewards engine (PHP + JSON)  
+- Listing platform  
 - Amazon affiliate product display system  
 - Image converter with multi-language support  
-- SEO-focused niche websites (vanlife, IPO, zodiac signs)  
+- SEO-focused niche websites  
 
 ## Connect With Me
 
